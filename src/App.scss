@@ -1,0 +1,76 @@
+@import './Scss/breakpoints';
+@import './Scss/mixins';
+
+// not reccomended
+*:focus {
+    outline: 0 !important;
+}
+
+#root {
+    position: relative;
+    display: grid;
+    grid-template-rows: auto 1fr auto;
+    grid-template-columns: 1fr;
+    height: 100%;
+    width: 100%;
+
+    .app {
+        box-sizing: border-box;
+        background-image: url(./Assets/images/background.png);
+        background-repeat: no-repeat;
+        background-size: cover;
+
+        //position: absolute;
+        top: 0;
+        bottom: 0;
+        position: fixed;
+        overflow-y: hidden;
+        overflow-x: hidden;
+        width: 100%;
+        //height: 100%;
+
+        padding: 30px;
+        @include app-padding;
+
+        display: grid;
+        grid-template-rows: auto 1fr auto auto;
+
+        @media screen and (max-width: $tablet) {
+            padding: 20px;
+        }
+
+        @media screen and (max-width: $tablet-landscape) and (orientation: landscape) {
+            padding: 20px;
+        }
+
+        .pathophysiology,
+        .potential,
+        .study,
+        .summary {
+            position: absolute;
+            width: 100%;
+            height: 100%;
+        }
+    }
+}
+
+.scene {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    // z-index: -1;
+
+    canvas {
+        width: 90vw;
+        height: 90vh;
+    }
+}
+
+video {
+    position: absolute;
+    width: 100%;
+    left: 0;
+    right: 0;
+    top: 0;
+    z-index: -1;
+}

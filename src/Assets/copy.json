@@ -1,0 +1,392 @@
+{
+
+    "scroll": "Continue scrolling",
+
+    "header": [
+        "Overview",
+        "Pathophysiology",
+        "Potential of OPSUMIT",
+        "The REPAIR study",
+        "Summary"
+    ],
+
+    "footer": [
+        "iMR code | Date of prep"
+    ],
+
+    "loading": {
+        "title": "Delving deeper into PAH",
+        "subTitle": "Loading...",
+        "textOne": "Put on headset",
+        "textTwo": "This experience is optimised for headphones"
+
+    },
+    "overview": {
+        "titleOne": "DELVE",
+        "titleTwo": "DEEPER",
+        "titleThree": "INTO",
+        "titleFour": "pah",
+        "text": "Pulmonary arterial hypertension (PAH) is a rare disease characterised by increasing pulmonary vascular resistance (PVR) that eventually leads to right heart failure.1 While its exact cause remains unknown, research has led to a better understanding of the pathophysiology of PAH1",
+        "scroll": "Scroll down to explore"
+    },
+    "pathophysiology": {
+
+        "pathophysiology": {
+            "title": "Vascular remodelling",
+            "text": "Narrowing of the pulmonary artery in PAH occurs as a result of vascular remodelling, which involves changes to all three layers of the vessel wall via multiple pathological mechanisms, affecting a range of different cell types<sup>1,2</sup>",
+            "button_text": "Explore PAH pathogenesis",
+            "pathophysiology_overlay": {
+
+                "nav": [
+                    "Vasoconstriction", "Cell hyperplasia", "fibrosis", "<i>in situ</i> thrombosis", "Inflammation", "plexiform lesions"
+                ],
+                "sub_pages": [
+                    [
+                        "Vasoconstriction",
+                        "Occurring early in PAH pathogenesis, endothelial dysfunction leads to impaired production of vasodilators such as nitric oxide and prostacyclin, and overexpression of vasoconstrictors such as endothelin-1. Over time, this results in excessive vasoconstriction of the pulmonary arteries<sup>1</sup>"
+                    ],
+                    [
+                        "Cell hyperplasia",
+                        "A principal pathogenic event in PAH is the thickening of the smooth muscle media and invasive proliferation of smooth muscle cells into the intima, leading to hypertrophy of the pulmonary vasculature<sup>1,4</sup>"
+                    ],
+                    [
+                        "fibrosis",
+                        "Maladaptive fibrosis plays an essential role in the pathogenesis of PAH. Increased fibroblast activation causes both the intima and the adventitia to thicken, which further impedes blood flow through the pulmonary arteries<sup>1,3</sup>"
+                    ],
+                    [
+                        "in situ thrombosis",
+                        "Abnormalities in the clotting cascade and platelet dysfunction promote the development of in situ pulmonary artery thrombosis. This results in the formation of thrombotic lesions that can cause obstruction of the vessels<sup>5</sup>"
+                    ],
+                    [
+                        "Inflammation",
+                        "Inflammatory processes are thought to play a role in PAH. Patient specimens show accumulation of perivascular inflammatory cells, such as macrophages and B and T cells.Additionally,some PAH patients have elevated circulating levels of pro - inflammatory cytokines < sup > 5,6 < /sup>"
+                    ],
+                    [
+                        "plexiform lesions",
+                        "Complex plexiform lesions are the hallmark of advanced PAH. Formed due to disorganised endothelial cell proliferation, they are glomeruloid-like vascular projections that proliferate into the pulmonary arterial walls<sup>5,7</sup>"
+                    ]
+
+                ]
+
+            }
+        },
+
+
+        "pathophysiology_remodelling": {
+            "title": "Impaired pulmonary circulation",
+            "text": "Ultimately, the proliferative and obstructive remodelling of the pulmonary vasculature leads to increasing PVR and pulmonary arterial pressure (PAP), and the arteries become thicker, stiffer and more difficult to expand, impeding pulmonary blood flow<sup>8</sup>"
+        },
+
+
+        "right_heart_dysfunction": {
+            "nav": [
+                "Increased contraction", "Ventricular dilatation", "Right heart failure", "Left heart dysfunction"
+            ],
+            "title": "Right heart dysfunction",
+            "text": "In PAH, increasing PVR causes an increase in right ventricular (RV) afterload. To remain coupled to its load, the right ventricle undergoes remodelling, including increased contractility, hypertrophy and dilatation, until it eventually becomes uncoupled9,<sup>10</sup>",
+            "button_text": "Explore the stages of right heart dysfunction",
+
+            "pop_up": {
+                "button_text": "Assessing right heart function",
+                "title": "Assessing right heart function ",
+                "text": "In PAH, severity of PAH symptoms and survival are strongly associated with RV function. Consequently, measures of cardiac function, such as mean right atrial pressure (mRAP), cardiac output (CO) and cardiac index (CI) have high prognostic value in PAH11"
+            },
+
+            "sub_pages": [{
+                    "title": "Increased contraction",
+                    "text": "In the early phase of the disease, the right ventricle is able to maintain cardiac output, despite the increased afterload, by increasing systolic contraction. To achieve this, the RV muscle hypertrophies, leading to an increase in wall thickness<sup>9,10</sup>"
+                },
+                {
+                    "title": "Ventricular dilatation",
+                    "text": "However, this adaptive hypertrophy cannot be maintained in the face of sustained pressure overload, and the RV stroke volume starts to decrease. The RV becomes dilated and the heart rate increases in an attempt to maintain cardiac output given the decreasing stroke volume<sup>9,10</sup>"
+                },
+                {
+                    "title": "Right heart failure",
+                    "text": "Eventually, the right heart can no longer compensate for the continued increase in afterload. In the advanced stages of the disease, as well as during exercise, the right ventricle cannot maintain cardiac output as it becomes uncoupled from its load<sup>9,10</sup>"
+                },
+                {
+                    "title": "Left heart dysfunction",
+                    "text": "As RV function declines in advanced PAH, left ventricular function also becomes impaired. Leftward septal bowing occurs due to prolonged RV contraction time, while the decrease in RV stroke volume leads to underfilling of the left ventricle<sup>9,10</sup>"
+                }
+            ]
+
+        },
+
+        "complete_pathology": {
+            "button_text": "Explore the progressive impact of PAH",
+
+            "nav": [
+                "Early symptoms", "Symptom progression", "Advanced disease", "PAH mortality"
+            ],
+
+            "title": "Impact of PAH",
+            "text": "PAH remains a devastating disease with progressively debilitating symptoms and high mortality.9,11 The typical symptoms of PAH occur as a result of pathophysiological changes to the pulmonary vasculature and a progressive decline in right heart function<sup>13</sup>",
+
+            "sub_pages": [{
+                    "title": "Early symptoms",
+                    "text": "The early symptoms of PAH manifest when PVR is already substantially above normal, suggesting advanced pulmonary vascular remodelling.11 At this stage, symptoms are typically induced by exertion and include dyspnoea, fatigue, weakness, angina and syncope<sup>14</sup>"
+                },
+                {
+                    "title": "Symptom progression",
+                    "text": "As RV function continues to deteriorate, patients can present with further clinical signs and symptoms, such as peripheral oedema, increasing severity of angina, abdominal distension and ankle oedema<sup>11,14</sup>"
+
+                },
+                {
+                    "title": "Advanced disease",
+                    "text": "Patients with advanced PAH manifest symptoms of right heart failure, which can severely impact their ability to carry out normal daily activities. Patients can experience constant dyspnoea and fatigue at rest and may be completely bedridden due to these symptoms<sup>14,15</sup>"
+                },
+                {
+                    "title": "PAH mortality",
+                    "text": "The long-term prognosis for patients with PAH remains poor, with a mortality rate of almost 40% over 5 years despite treatment.*12 A diagnosis of PAH can be devastating for patients and a considerable challenge for clinicians; but the REPAIR study may offer some hope for the future"
+                }
+            ]
+
+
+        },
+        "potential": {
+            "button_text": "VIEW OPSUMIT MOA",
+            "title": "THE POTENTIAL OF OPSUMIT",
+            "text": "OPSUMIT (macitentan) is a foundation for PAH treatment. It is an endothelin receptor antagonist (ERA) indicated, as monotherapy or combination therapy, for the long-term treatment of adult patients with WHO FC (functional class) II–III PAH1",
+
+            "potential_overlay": {
+
+                "nav": [
+
+                ],
+                "sub_pages": [
+                    [
+                        "MECHANISM OF ACTION",
+                        "OPSUMIT is a potent, long-acting dual ERA, with high affinity for the ETA and ETB receptors. It acts on pulmonary arterial smooth muscle cells to inhibit endothelin-mediated vasoconstriction and smooth muscle cell proliferation1,2"
+                    ]
+
+                ]
+            }
+        },
+
+        "study_page_one": {
+            "button_text": "VIEW STUDY DESIGN",
+            "title": "REPAIR STUDY OVERVIEW",
+            "text": "The REPAIR study evaluated the effect of OPSUMIT on right ventricular (RV) remodelling and function, and cardiopulmonary haemodynamics in patients with symptomatic PAH. The safety and tolerability of OPSUMIT were also assessed3",
+
+            "pop_up": {
+                "button_text": "RVSV BY ECHO",
+                "title": "RIGHT HEART ASSESSMENT WITH CMRI",
+                "text": "cMRI is regarded as the gold standard technique for assessing RV structure and function, and is known to be a powerful prognostic marker in PAH.6 REPAIR is the first multicentre PAH study to use a primary endpoint measured by cMRI3"
+            },
+
+            "study_overlay": {
+                "nav": [
+                    "STUDY DURATION", "STUDY ENDPOINTS", "STUDY POPULATION"
+                ],
+
+                "sub_pages": [
+                    [
+                        "STUDY DURATION",
+                        "REPAIR was a 52-week, prospective, multicentre, single-arm, open-label, Phase 4 study.3 Two REPAIR sub-studies were also conducted to determine the effect of OPSUMIT on RV function measured by echo, as well as its effect on left ventricular (LV) structure and function4,5"
+                    ],
+                    [
+                        "STUDY ENDPOINTS",
+                        "The study endpoints were change from baseline to Week 26 in:3"
+
+                    ],
+                    [
+                        "STUDY POPULATION",
+                        "The REPAIR study assessed 87 patients with PAH across 27 sites in 11 countries3"
+                    ]
+
+                ]
+            }
+
+        },
+
+        "study_page_two": {
+            "button_text": "RVSV ANALYSIS",
+            "button_text_two": "RVSV BY ECHO",
+            "button_text_three": "RVSV BY CMRI",
+            "title": "PRIMARY ENDPOINT:",
+            "span": "RV STROKE VOLUME (RVSV)",
+            "text": "In the REPAIR study, treatment with OPSUMIT, alone or in combination with a PDE-5i, led to a significant and clinically relevant improvement in RV function measured by cMRI. RVSV increased by 12 mL from baseline to Week 26*3",
+
+            "pop_up": {
+                "button_text": "PVR BY RHC",
+                "title": "RHAEMODYNAMIC ASSESSMENT PVR BY RHC",
+                "text": "In addition to being the definitive diagnostic technique for confirming PAH, RHC is used to assess cardiopulmonary haemodynamics in PAH, including key prognostic variables such as PVR, mPAP, mRAP and cardiac index8"
+            },
+            "study_overlay": {
+
+                "nav": [
+
+                ],
+
+                "sub_pages": [
+                    [
+                        "CHANGE IN RVSV",
+                        "There was a significant improvement in RVSV over the course of the study, which was maintained up to 52 weeks*3,7"
+                    ]
+                ]
+            }
+
+        },
+
+        "study_page_three": {
+            "button_text": "PVR ANALYSIS",
+            "button_text_two": "PVR BY RHC",
+            "title": "PRIMARY ENDPOINT:",
+            "span": "PULMONARY VASCULAR RESISTANCE (PVR)",
+            "text": "In the REPAIR study, treatment with OPSUMIT, alone or in combination with PDE-5i, was associated with a significant improvement in PVR, demonstrating a 38% decrease in PVR from baseline to Week 26*3",
+            "pop_up": {
+                "button_text": "PVR BY RHC",
+                "title": "RHAEMODYNAMIC ASSESSMENT PVR BY RHC",
+                "text": "In addition to being the definitive diagnostic technique for confirming PAH, RHC is used to assess cardiopulmonary haemodynamics in PAH, including key prognostic variables such as PVR, mPAP, mRAP and cardiac index8"
+            },
+            "study_overlay": {
+                "nav": [
+
+                ],
+                "sub_pages": [
+                    [
+                        "CHANGE IN PVR",
+                        "There was a significant decrease in PVR from baseline to Week 26 in the REPAIR study3"
+                    ]
+                ]
+            }
+
+        },
+
+        "study_page_four": {
+            "button_text": "VIEW STUDY DESIGN",
+            "title": "FULL REPAIR STUDY RESULTS",
+
+            "filter": {
+                "title": "SELECT AN OPTION TO HIGHLIGHT RESULTS",
+                "option_one": "SECONDARY ENDPOINTS",
+                "option_two": "EXPLORATORY ENDPOINTS",
+                "option_three": "ECHO SUB-STUDY",
+                "option_four": "LEFT HEART SUB-STUDY",
+                "clear_filter": "CLEAR FILTER"
+            },
+            "text": "The REPAIR study evaluated the effect of OPSUMIT on right ventricular (RV) remodelling and function, and cardiopulmonary haemodynamics in patients with symptomatic PAH. The safety and tolerability of OPSUMIT were also assessed3",
+
+            "study_overlay": {
+                "nav": [
+                    "STUDY DURATION", "STUDY ENDPOINTS", "STUDY POPULATION"
+                ],
+
+                "sub_pages": [
+                    [
+                        "SECONDARY ENDPOINT RV END DIASTOLIC VOLUME (RVEDV)",
+                        "As PAH progresses, the right ventricle dilates to compensate for sustained pressure overload.9 Following treatment with OPSUMIT in the REPAIR study, the RV end diastolic volume decreased, indicating a reduction in RV dilatation*3,"
+                    ],
+                    {
+                        "title": "SECONDARY ENDPOINT RV END SYSTOLIC VOLUME (RVESV)",
+                        "text": "In PAH, elevated PVR limits the amount of blood ejected from the RV, leaving a substantial amount in the ventricle after contraction (RVESV).9 In REPAIR, OPSUMIT significantly decreased RVESV, signalling an increased amount of blood leaving the RV at Weeks 26 and 52 vs baseline*3,7"
+
+                    },
+                    {
+                        "title": "SECONDARY ENDPOINT RV EJECTION FRACTION (RVEF)",
+                        "text": "In REPAIR, treatment with OPSUMIT significantly increased RVEF, indicating that the RV was able to pump blood more efficiently, due to a reduction in pulmonary arterial load.3,9 This effect was maintained up to 52 weeks*7"
+                    },
+                    {
+                        "title": "SECONDARY ENDPOINT RV MASS",
+                        "text": "In PAH, pathological remodelling causes the RV to hypertrophy.9 Treatment with OPSUMIT in REPAIR led to a significant decrease in RV mass, indicating a reversal of the hypertrophy, which was maintained up to 52 weeks*3,7"
+                    },
+                    {
+                        "title": "EXPLORATORY ENDPOINT MEAN PULMONARY ARTERIAL PRESSURE (MPAP)",
+                        "text": "In PAH, remodelling of the pulmonary vasculature leads to increase in pressure.9 In the REPAIR study, OPSUMIT acted on these blood vessels, significantly reducing mPAP from baseline to Week 263"
+                    },
+                    {
+                        "title": "EXPLORATORY ENDPOINT MEAN RIGHT ATRIAL PRESSURE (MRAP)",
+                        "text": "Elevated RAP reflects RV overload in PAH and is a risk factor for mortality.10 In the REPAIR study, OPSUMIT reduced mRAP, indicating an improvement in right heart remodelling3"
+                    },
+                    {
+                        "title": "EXPLORATORY ENDPOINT MEAN RIGHT ATRIAL PRESSURE (MRAP)",
+                        "text": "Elevated RAP reflects RV overload in PAH and is a risk factor for mortality.10 In the REPAIR study, OPSUMIT reduced mRAP, indicating an improvement in right heart remodelling3"
+                    },
+                    {
+                        "title": "EXPLORATORY ENDPOINT CARDIAC INDEX",
+                        "text": "Cardiac index is a useful measure of heart function.11 Through its positive effect on RV remodelling, OPSUMIT improved both right and left heart function in the REPAIR study3"
+                    },
+                    {
+                        "title": "EXPLORATORY ENDPOINT N-TERMINAL PRO-B-TYPE NATRIURETIC PEPTIDE (NT-PROBNP)",
+                        "text": "NT-proBNP is a biomarker of heart function, with elevated levels indicating increased ventricular wall stress.12 In REPAIR, OPSUMIT significantly reduced NT-proBNP levels up to Week 26, maintained to Week 52,* reflecting a reduction in RV stress3,7"
+                    },
+                    {
+                        "title": "ECHO SUB-STUDY RV END DIASTOLIC DIMENSION (RVEDD)",
+                        "text": "In REPAIR, RV dimension at the end of diastole was measured using echo. Treatment with OPSUMIT led to a significant reduction in RV size at Week 26, maintained up to 52 weeks,*4 demonstrating reversal of the pathological RV dilatation that occurs in PAH9"
+                    },
+                    {
+                        "title": "ECHO SUB-STUDY RV FRACTIONAL AREA CHANGE (RVFAC)",
+                        "text": "In REPAIR, RV dimension at the end of diastole was measured using echo. Treatment with OPSUMIT led to a significant reduction in RV size at Week 26, maintained up to 52 weeks,*4 demonstrating reversal of the pathological RV dilatation that occurs in PAH9"
+                    },
+                    {
+                        "title": "ECHO SUB-STUDY TRICUSPID ANNULAR PLANE SYSTOLIC EXCURSION (TAPSE)",
+                        "text": "TAPSE represents a measure of RV longitudinal function during systole, with a higher value corresponding to better function.13 Treatment with OPSUMIT in REPAIR significantly increased the TAPSE from baseline to Week 26, and was maintained to Week 52*4"
+                    },
+                    {
+                        "title": "LEFT HEART SUB-STUDY LV STROKE VOLUME (LVSV)",
+                        "text": "Structural remodelling of the RV in PAH results in leftward septal bowing, which hinders LV filling, causing a reduction in its stroke volume.9 OPSUMIT significantly increased LVSV at Weeks 26 and 52,* showing an improvement in both RV and LV structure and function5"
+                    },
+                    {
+                        "title": "LEFT HEART SUB-STUDY LV END-DIASTOLIC VOLUME (LVEDV)",
+                        "text": "In PAH, filling of the LV is impaired due to pathological RV remodelling.9 Treatment with OPSUMIT in REPAIR improved LV capacity, demonstrated by a significant increase in LVEDV from baseline to Week 26, maintained up to 52 weeks*5"
+                    },
+                    {
+                        "title": "LEFT HEART SUB-STUDY LV EJECTION FRACTION (LVEF)",
+                        "text": "In PAH, pathological changes to the RV can lead to LV contractile dysfunction.9 Treatment with OPSUMIT in the REPAIR study significantly increased LVEF at Weeks 26 and 52,* reflecting an improvement in LV function after RV remodelling5"
+                    }
+                ]
+            }
+
+        },
+
+
+        "summary_page_one": {
+            "button_text": "VIEW OPSUMIT SAFETY",
+            "title": "IMPACT ON PATIENTS",
+            "text": "Right heart remodelling due to OPSUMIT in the REPAIR study was associated with improvements in both 6MWD and WHO FC.3 By improving functional capacity, OPSUMIT can help ease the impact of PAH on patients’ lives, allowing them to maintain their independence3,14,15"
+
+        },
+        "summary_page_two": {
+            "button_text": "VIEW OPSUMIT SAFETY",
+            "title": "CHANGE IN WHO FC",
+            "text": "In REPAIR, treatment with OPSUMIT had a positive effect on cardiac remodelling and function, leading to more efficient pumping of blood and an increased volume of blood available to the body. As a result, all patients either improved or maintained functional class from baseline, and no patients worsened*3"
+        },
+        "summary_page_three": {
+            "button_text": "VIEW OPSUMIT SAFETY",
+            "title": "CHANGE IN 6MWD",
+            "text": "Through improving cardiac structure and function, treatment with OPSUMIT increased patients’ exercise capacity in the REPAIR study. There was a significant increase in 6MWD from baseline to Week 26, which was maintained up to 52 weeks*3,7"
+        },
+        "summary_page_four": {
+            "button_text": "VIEW OPSUMIT SAFETY",
+            "title": "MAKE A DIFFERENCE WITH OPSUMIT",
+            "text": "Most patients with PAH die due to progressive right heart failure,16,17 so an ERA that positively impacts right heart function is crucial.18 Treatment with OPSUMIT in the REPAIR study led to significant and clinically relevant improvements in RV remodelling and function3",
+            "text_two": "With REPAIR, we are exploring the depths of OPSUMIT’s potential in our continued effort to improve long-term outcomes for patients with PAH"
+        }
+
+    },
+
+
+
+    "refs": {
+        "title": "References",
+        "overview": [
+            ". Galiè N et al. Eur Heart J 2010; 31(17):2080-2086.",
+            ". Humbert M et al. Eur Respir J 2019; 53(1):1801887.",
+            ". Thenappan T et al. BMJ 2018; 360:j5492.",
+            ". Wilson JL et al. PLoS One 2015; 10(4):e0123662.",
+            ". Humbert M et al. J Am Coll Cardiol 2004; 43(12 Suppl S):13S–24S.",
+            ". Price LC et al. Chest 2012; 141(1):210–221.",
+            ". Jonigk D et al. Am J Pathol 2011; 179(1):167–179.",
+            ". Sysol JR, Machado RF. Continuing Cardiol Educ 2018; 4(1):2–12.",
+            ". Vonk Noordegraaf A et al. J Am Coll Cardiol 2017; 69(2):236–243.",
+            ". Vonk Noordegraaf A, Galiè N. Eur Respir Rev 2011; 20(122):243–253.",
+            ". Howard LS. Eur Respir Rev 2011; 20(122):236–242.",
+            ". Farber HW et al. Chest 2015; 148(4):1043–1054.",
+            ". Lai Y et al. Circ Res 2014; 115(1):115–130.",
+            ". Galiè N et al. Eur Heart J 2016; 37(1):67–119.",
+            ". McGoon M et al. Chest 2004; 126(1 Suppl):14S–34S."
+        ]
+
+
+    }
+}

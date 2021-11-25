@@ -1,0 +1,28 @@
+@import './colors';
+@import './breakpoints';
+
+@mixin overlay {
+    display: grid;
+    grid-template-rows: auto auto;
+    grid-template-columns: 1fr;
+
+    position: absolute;
+
+    background-color: $overlay;
+    width: 40%;
+    padding: 38px 47px 36px 48px;
+
+    z-index: 99;
+
+    @media screen and (max-width: $tablet) {
+        width: auto;
+    }
+}
+
+@mixin app-padding {
+    padding: 30px;
+
+    @media screen and (max-width: $tablet) {
+        padding: 20px;
+    }
+}
